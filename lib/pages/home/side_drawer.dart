@@ -20,8 +20,8 @@ class SideDrawer extends StatelessWidget {
         padding: EdgeInsets.all(0.0),
         children: <Widget>[
           UserAccountsDrawerHeader(
-            accountName: Text("Burhanuddin Rashid"),
-            accountEmail: Text("burhanrashid5253@gmail.com"),
+            accountName: Text("Govind Tank"),
+            accountEmail: Text("govindtank600@gmail.com"),
             otherAccountsPictures: <Widget>[
               IconButton(
                   icon: Icon(
