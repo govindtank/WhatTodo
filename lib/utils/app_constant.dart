@@ -16,12 +16,12 @@ const double FONT_SIZE_TITLE = 16.0;
 const double FONT_SIZE_LABEL = 14.0;
 const double FONT_SIZE_DATE = 12.0;
 
-const String TWITTER_URL = "https://twitter.com/burhanrashid52";
-const String FACEBOOK_URL = "https://www.facebook.com/Bursid";
-const String GITHUB_URL = "https://github.com/burhanrashid52";
-const String PROJECT_URL = "https://github.com/burhanrashid52/WhatTodo";
-const String ISSUE_URL = "https://github.com/burhanrashid52/WhatTodo/issues";
+const String TWITTER_URL = "https://www.x.com/govindtank4";
+const String FACEBOOK_URL = "https://www.facebook.com/govind.tank.77";
+const String GITHUB_URL = "https://github.com/govindtank";
+const String PROJECT_URL = "https://github.com/govindtank/WhatTodo";
+const String ISSUE_URL = "https://github.com/govindtank/WhatTodo/issues";
 const String README_URL =
-    "https://github.com/burhanrashid52/WhatTodo/blob/master/README.md";
+    "https://github.com/govindtank/WhatTodo/blob/master/README.md";
 const String EMAIL_URL =
-    "mailto:<burhanrashid5253@gmail.com>?subject=WhatTodo%20Query&body=Hi";
+    "mailto:<govindtank600@gmail.com>?subject=WhatTodo%20Query&body=Hi";
